@@ -1,3 +1,2 @@
 # Dicee
-android project
-A simple random dice guessing game 
+A simple random dice guessing game on android
